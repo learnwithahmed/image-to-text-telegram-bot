@@ -11,7 +11,7 @@ A bot 🤖 that can extract words in almost any language out of images using [Te
 * [Telegraf](https://github.com/telegraf/telegraf)
 
 ### Useful Links
-* [Website/Blog](https:/aadev.me)
+* [Website/Blog](https://aadev.me)
 * [YouTube Channel](https://www.youtube.com/channel/UCUX8lsRBEM_BGAII57QZWtg?sub_confirmation=1) with videos covering code
 * [Discord Chat](https://discord.com/invite/kaZktBY) for questions and Live discussions
 * [Facebook Page](https://www.facebook.com/FrontendCrispinessCreator/)
